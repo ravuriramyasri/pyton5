@@ -1,11 +1,11 @@
 a=int(raw_input())
 b=int(raw_input())
-c=int(raw_inpu())
+c=int(raw_input())
 if a>=b and a>=c :
     print(a)
 elif b>=a and b>=c :
     print(b)
-elise:
+else :
     print(c)
     
     
